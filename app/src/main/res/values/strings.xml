@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hyperoperation Calculator</string>
+    <string name="main_execute">Execute Operation</string>
+    <string name="main_opindicator">Operation (1=addition, 2=multiplication, etc.)</string>
+</resources>
